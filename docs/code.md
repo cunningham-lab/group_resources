@@ -32,6 +32,7 @@ Examples:
 ```
 - "Click" (Python), [link](https://click.palletsprojects.com/en/8.0.x/) 
   - Easy-to-use and easy-to-test clis using decorators.   
+  
 - "Git Template", [link](https://cunningham-lab.github.io/git_template/)  
   - Summary of professional coding practices for researchers. 
 ```

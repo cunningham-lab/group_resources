@@ -15,10 +15,10 @@ layout: default
  
 
 # Group Resources 
-One exciting opportunity suggestion that came out of our inaugural Fall 2021 group meeting discussion was a way to share resources with other group members.  
-This page can be a location where we can all compile resources that we think are worth sharing. On each page I will also include examples on how to add new sections and resources. 
+One exciting suggestion that came out of our first fall 2021 group meeting was that we should have a place to share resources with other group members.  
+This page is exactly that: a single place where we can all compile resources that we think will add to the knowledge and skills of the Zebroid group. On each page I have also included guildelines and templates to add new resources. 
 
-This page owes a great deal to Sean Bittner's post on best practices for organizing a git template, found [here](https://github.com/cunningham-lab/git_template), as well as the blog run by the Columbia Advanced Machine Learning Seminar ([see here](https://github.com/casmls)). 
+This site owes a great deal to Sean Bittner's post on best practices for organizing a git template, found [here](https://github.com/cunningham-lab/git_template), as well as the blog run by the Columbia Advanced Machine Learning Seminar ([see here](https://github.com/casmls)). 
 
 ## Papers 
 
