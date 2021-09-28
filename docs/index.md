@@ -15,7 +15,7 @@ layout: default
  
 
 # Group Resources 
-One exciting opportunity that came out of our inaugural Fall 2021 group meeting discussion was a way to share resources with other group members.  
+One exciting opportunity suggestion that came out of our inaugural Fall 2021 group meeting discussion was a way to share resources with other group members.  
 This page can be a location where we can all compile resources that we think are worth sharing. On each page I will also include examples on how to add new sections and resources. 
 
 This page owes a great deal to Sean Bittner's post on best practices for organizing a git template, found [here](https://github.com/cunningham-lab/git_template), as well as the blog run by the Columbia Advanced Machine Learning Seminar ([see here](https://github.com/casmls)). 
