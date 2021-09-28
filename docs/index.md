@@ -7,9 +7,7 @@ layout: default
 
 <div class="topnav">
   <a class="active" href="#">Home</a>
-  <a href="../git_template/page2">Papers</a>
-  <a href="../git_template/page3">Code</a>
-  <a href="../git_template/page4">Soft Skills</a>
+  <a href="../group_resources/papers">Papers</a>
 </div>
 
  
