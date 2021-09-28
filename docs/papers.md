@@ -1,3 +1,16 @@
+---
+layout: default
+---
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<div class="topnav">
+  <a href="../group_resources/">Home</a>
+  <a class="active" href="#">Papers</a>
+  <a href="code">Docs</a>
+  <a href="soft_skills">Soft Skills</a>
+</div>
+
 Here are papers that are of interest to our group. If adding new papers, please do so in the following format:  
 
 ```

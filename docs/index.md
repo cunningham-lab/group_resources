@@ -9,6 +9,7 @@ layout: default
   <a class="active" href="#">Home</a>
   <a href="../group_resources/papers">Papers</a>
   <a href="../group_resources/code">Code</a>
+  <a href="../group_resources/soft_skills">Soft Skills</a>
 </div>
 
  
