@@ -9,6 +9,7 @@ layout: default
   <a class="active" href="#">Papers</a>
   <a href="code">Docs</a>
   <a href="soft_skills">Soft Skills</a>
+  <a href="meeting_notes">Meeting Notes</a>
 </div>
 
 Here are papers that are of interest to our group. If adding new papers, please do so in the following format:  

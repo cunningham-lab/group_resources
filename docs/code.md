@@ -9,6 +9,7 @@ layout: default
   <a href="papers">Papers</a>
   <a class="active" href="#">Code</a>
   <a href="soft_skills">Soft Skills</a>
+  <a href="meeting_notes">Meeting Notes</a>
 </div>
 
 Here are some packages that could be of interest to you as someone doing research in data science/stats/macine learning. If adding a new one, please do so in the following format:  

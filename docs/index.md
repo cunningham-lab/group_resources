@@ -10,6 +10,7 @@ layout: default
   <a href="../group_resources/papers">Papers</a>
   <a href="../group_resources/code">Code</a>
   <a href="../group_resources/soft_skills">Soft Skills</a>
+  <a href="../group_resources/meeting_notes">Meeting Notes</a>
 </div>
 
  

@@ -9,6 +9,7 @@ layout: default
   <a href="papers">Papers</a>
   <a href="code">Code</a>
   <a class="active" href="#">Soft Skills</a>
+  <a href="meeting_notes">Meeting Notes</a>
 </div>
 
 Here are some resources that discuss soft skills that could be helpful in research. 
