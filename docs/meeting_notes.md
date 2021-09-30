@@ -16,7 +16,7 @@ Notes for our group meetings.
 
 # Meeting 9/30/21 
 
-Here are some summary results for the survey on group meeting format: 
+Here are the results for our survey on group meeting format: 
 
 - Would you like to have group meetings? 
     - 6/6 responded yes
