@@ -3,7 +3,6 @@ layout: default
 ---
 
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
-
 <div class="topnav">
   <a href="../group_resources/">Home</a>
   <a href="papers">Papers</a>
@@ -106,3 +105,22 @@ Here are the results for our survey on group meeting format:
         - Suggestion: Approach this through simulations in addition to traditional presentations. Introduce a problem, give everyone time to think on their own, and then compare answers.  
     - Research topics are mostly statistical machine learning, with some neuroscience topics as well.  
     - Suggestion: Let's make a schedule of topics (research and skills) that covers the semester, and people can opt in to whatever topic they want (as individuals, as pairs). We can also plan field trips here!  
+
+
+
+- Post-meeting summary
+
+  - Soft skills
+
+    - Time / project / paper management skills (could be an app, methodologies)
+    - Coding skills (IDE, Jupyter Notebook)
+
+  - Self-assessment 
+
+    - IDP https://myidp.sciencecareers.org/?AspxAutoDetectCookieSupport=1
+
+  - Next week's plan
+
+    - Taiga and Luhuan will present on contrastiv learning
+
+      
