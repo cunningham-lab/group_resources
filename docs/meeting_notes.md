@@ -100,8 +100,9 @@ Here are some summary results for the survey on group meeting format:
         - build a strong and supportive community  
         - learning how to be more effective researchers. 
         - Suggestion: If we agree on these goals, let's be proactive in making sure that they happen. If some part of the format is not working, we should discuss.  
-- Healthy support for weekly meetings.  
-    - Point of focus: lots of interest in skills (coding, soft skills like management) that are less common for our research settings. It's worth devoting some time to figuring out the best format for this kind of meeting.   
+- Meeting format: 
+    - Healthy support for weekly meetings.  
+    - Lots of interest in skills (coding, soft skills like management) that are less common for our research settings. It's worth devoting some time to figuring out the best format for this kind of meeting.   
         - Suggestion: Approach this through simulations in addition to traditional presentations. Introduce a problem, give everyone time to think on their own, and then compare answers.  
-    - Our interest in research topics to discuss is mostly statistical machine learning, with fewer neuroscience topics scattered throughout.  
-        - Suggestion: Let's make a schedule of topics that covers the semester, and people can opt in to whatever topic they want (as individuals, as pairs). 
+    - Research topics are mostly statistical machine learning, with some neuroscience topics as well.  
+    - Suggestion: Let's make a schedule of topics (research and skills) that covers the semester, and people can opt in to whatever topic they want (as individuals, as pairs). We can also plan field trips here!  
