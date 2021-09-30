@@ -121,6 +121,6 @@ Here are the results for our survey on group meeting format:
 
 - Next week's plan
 
-  - Taiga and Luhuan will present on contrastiv learning
+  - Taiga and Luhuan will present on contrastive learning
 
     
