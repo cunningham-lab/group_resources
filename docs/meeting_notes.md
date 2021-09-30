@@ -108,19 +108,19 @@ Here are the results for our survey on group meeting format:
 
 
 
-- Post-meeting summary
+# Post-meeting summary
 
-  - Soft skills
+- Soft skills
 
-    - Time / project / paper management skills (could be an app, methodologies)
-    - Coding skills (IDE, Jupyter Notebook)
+  - Time / project / paper management skills (could be an app, methodologies)
+  - Coding skills (IDE, Jupyter Notebook)
 
-  - Self-assessment 
+- Self-assessment 
 
-    - IDP https://myidp.sciencecareers.org/?AspxAutoDetectCookieSupport=1
+  - IDP https://myidp.sciencecareers.org/?AspxAutoDetectCookieSupport=1
 
-  - Next week's plan
+- Next week's plan
 
-    - Taiga and Luhuan will present on contrastiv learning
+  - Taiga and Luhuan will present on contrastiv learning
 
-      
+    
