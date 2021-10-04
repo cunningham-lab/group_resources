@@ -37,3 +37,5 @@ Examples:
 - "Evidence Based Scheduling", [link](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/)  
   - Have you ever tried estimating how long something will take you to finish? What if we made that into a science?  
 
+- "A Research to Engineering Workflow", [link](http://dustintran.com/blog/a-research-to-engineering-workflow)
+  - A comprehensive look at the resources, habits and mindset that one successful researcher recommends for academic work.  
