@@ -49,7 +49,8 @@ In this case I just copied the MLA formatted Google Scholar `Cite` text, and add
   - MoCo v2 paper, showing improved performance against SimCLRv1  baselines.   
 - Wang, Tongzhou, and Phillip Isola. "Understanding contrastive representation learning through alignment and uniformity on the hypersphere." International Conference on Machine Learning. PMLR, 2020. [link](http://proceedings.mlr.press/v119/wang20k.html) 
   - How do features learned through contrastive losses differ from those learned with standardized supervised features? Is there a general principle of representation learning we can extract there? 
-- Azizi, Shekoofeh, et al. "Big self-supervised models advance medical image classification." arXiv preprint arXiv:2101.05224 (2021). [link](https://arxiv.org/abs/2101.05224)  
+- Chen, Ting, and Lala Li. "Intriguing properties of contrastive losses." arXiv preprint arXiv:2011.02803 (2020). [link](https://arxiv.org/abs/2011.02803)  
+  - Do features learned through contrastive losses represent images with the same part-based structure seen in supervised learning? The authors also present a different formulation of the contrastive loss, and discuss issues in cases where networks can cheat with contrastive losses. 
    
    
     
