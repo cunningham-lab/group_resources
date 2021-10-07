@@ -47,7 +47,9 @@ In this case I just copied the MLA formatted Google Scholar `Cite` text, and add
   - Hierarchical pretraining across 16 different datasets, with thorough experimentation with training strategies. 
 - Chen, Xinlei, et al. "Improved baselines with momentum contrastive learning." arXiv preprint arXiv:2003.04297 (2020). [link](https://arxiv.org/pdf/2003.04297.pdf)
   - MoCo v2 paper, showing improved performance against SimCLRv1  baselines.   
-  
+- Wang, Tongzhou, and Phillip Isola. "Understanding contrastive representation learning through alignment and uniformity on the hypersphere." International Conference on Machine Learning. PMLR, 2020. [link](http://proceedings.mlr.press/v119/wang20k.html) 
+  - How do features learned through contrastive losses differ from those learned with standardized supervised features? Is there a general principle of representation learning we can extract there? 
+- Azizi, Shekoofeh, et al. "Big self-supervised models advance medical image classification." arXiv preprint arXiv:2101.05224 (2021). [link](https://arxiv.org/abs/2101.05224)  
    
    
     
