@@ -92,7 +92,7 @@ Here are the results for our survey on group meeting format:
         - Gain new coding skills
 
 
-## Summary 
+## Summary of Survey
 
 - Strong mandate to have group meetings. 
     - Main objectives: 
@@ -108,7 +108,7 @@ Here are the results for our survey on group meeting format:
 
 
 
-# Post-meeting summary
+## Post-meeting summary
 
 - Soft skills
 
