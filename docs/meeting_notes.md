@@ -123,4 +123,14 @@ Here are the results for our survey on group meeting format:
 
   - Taiga and Luhuan will present on contrastive learning
 
-    
+# Meeting 10/7/21    
+
+Today Luhuan and Taiga presented an overview of contrastive learning, with some applications to pretraining for real datasets. 
+There were lots of interesting discussion points, summarized in what follows: 
+
+- A key difference between the MoCo and SimCLR frameworks is that MoCo has “two” networks: a query network, whose representations will be learned via gradient descent, and a key network, which has its parameters updated as a convex combination of its current parameters, and the query network’s new parameters. This is the “momentum” aspect of the momentum update. In contrast, SimCLR only has one network, and draws samples from it without concern for keys vs. queries. Although the momentum component, nonlinear projection head, and other features of both frameworks have been intermingled in successive papers, I don’t think this difference has ever been resolved. 
+- It’s hard to understand why a lot of these implementation details work. Consider, for example the MLP projection head used by SimCLR. How should we understand the value of this projection head in improving the encoded representations? Dan mentioned an analogy with VAEs/Vanilla AutoEncoders. One perspective on VAEs is that it encourages latent representations to group together through a prior distribution- is something like that happening implicitly here?  
+- Is it a good idea to do contrastive learning in datasets where you have some structure? (I.e. video). 
+- How is contrastive learning more than just a fancy wrapper for data augmentation? What is the value of doing it beyond doing the same data augmentations in a supervised setting? 
+- The whole point of ML is to learn functions of the data that we don’t know how to describe mathematically. This philosophy is clear in doing classification. Is it as clear here? If we’re doing instance contrastive learning, aren’t we just creating data representations that are invariant to the particular data augmentations that we choose? Writing down invariant representations seems like something that we could just do mathematically instead. What is the value of learning these invariant representations w.r.t. a given data distribution? Uniformity of the representations in your learned feature space? 
+
