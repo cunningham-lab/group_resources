@@ -152,18 +152,21 @@ For those topics on which a significant part of the group would like to improve,
 Summary of Results: 
 
 What the most common things that people want to develop further? 
-5/7 
+
+## 5/7 
 - Starting a new project 
 - Starting a new piece of software
 - Balancing multiple projects 
 - Efficiently reading papers  
 - Keeping an organized notebook 
-4/7 
+ 
+## 4/7 
 - Assessing/identifying opportunities or areas for improvement to acheive goals more effectivelyo
 - Motivating and/or mentoring others to accomplish goals
 - Writing rebuttals that actually improve reviews
 - Collaboratively writing software/code with others
-3/7 
+ 
+## 3/7 
 - Using software development best practices (test driven design, continuous integration, etc.)
 - Explaining complex or theoretical concepts/ideas in basic terms and language
 - Choosing an appropriate set of experiments for a paper
