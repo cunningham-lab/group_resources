@@ -134,3 +134,41 @@ There were lots of interesting discussion points, summarized in what follows:
 - How is contrastive learning more than just a fancy wrapper for data augmentation? What is the value of doing it beyond doing the same data augmentations in a supervised setting? 
 - The whole point of ML is to learn functions of the data that we don’t know how to describe mathematically. This philosophy is clear in doing classification. Is it as clear here? If we’re doing instance contrastive learning, aren’t we just creating data representations that are invariant to the particular data augmentations that we choose? Writing down invariant representations seems like something that we could just do mathematically instead. What is the value of learning these invariant representations w.r.t. a given data distribution? Uniformity of the representations in your learned feature space? 
 
+# Meeting 10/14/21
+ 
+Happy Hour!
+
+# Meeting 10/28/21
+
+Today we're going over the results of Geoff's self assessment survey: [link](https://docs.google.com/forms/d/17U6Iiz2l3WRnam-Ufrt1dY_RORAZX2fAOTCbTv7Mt_Y/edit#re)
+
+There are a wide spread of results. We can ignore the topics where everyone has a good understanding, but it would be very interesting to spend time on those places where a sizeable portion of the group has self evaluated as needing to improve.  
+
+For those topics on which a significant part of the group would like to improve, we could consider different formats: 
+- Traditional presentation with slides on a certain tool, method, etc. 
+- "Panel discussion" going over bigger picture stuff that is less defined.    
+- Brainstorming session to tackle particular issues. 
+
+Summary of Results: 
+
+What the most common things that people want to develop further? 
+5/7 
+- Starting a new project 
+- Starting a new piece of software
+- Balancing multiple projects 
+- Efficiently reading papers  
+- Keeping an organized notebook 
+4/7 
+- Assessing/identifying opportunities or areas for improvement to acheive goals more effectivelyo
+- Motivating and/or mentoring others to accomplish goals
+- Writing rebuttals that actually improve reviews
+- Collaboratively writing software/code with others
+3/7 
+- Using software development best practices (test driven design, continuous integration, etc.)
+- Explaining complex or theoretical concepts/ideas in basic terms and language
+- Choosing an appropriate set of experiments for a paper
+- Designing effective figures and tables
+- Writing thoughtful, polite, and thorough reviews (and reviewing papers efficiently)
+- Performing a thorough literature search, ranging from seminal works to hot-off-the-press
+- Prioritizing tasks while maintaining flexibility to address potential/unexpected problems
+ 
